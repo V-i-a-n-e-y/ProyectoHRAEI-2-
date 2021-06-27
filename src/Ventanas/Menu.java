@@ -1067,7 +1067,7 @@ public class Menu extends javax.swing.JFrame {
 
             
           //  Persona persona = new Persona (id_usuario, nombres, primer_apellido, segundo_apellido, user, pass);
-        Licenciatura licenciatura;
+        //Licenciatura licenciatura;//nuevo comentario
             int folio = Integer.parseInt(jTxtFolio.getText());
             int semestre = Integer.parseInt(txtsemestre.getText());
             int no_alumnos = Integer.parseInt(txtnumalum.getText());
